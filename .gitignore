@@ -1,0 +1,40 @@
+### OSX ###
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+### Python ###
+__pycache__/
+local_settings.py
+*.py[cod]
+*.log
+*.pot
+*.pyc
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+.env
+db.sqlite3
+media/
+.idea/
+#static/
+assets/
+
+node_modules/
+assets/bundles/
+webpack-stats.json
